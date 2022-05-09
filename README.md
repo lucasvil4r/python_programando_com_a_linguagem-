@@ -1,3 +1,3 @@
 # Curso_Python
-Trajetoria curso python
+Trajetoria curso python.
  
